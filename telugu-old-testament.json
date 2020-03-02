@@ -1,0 +1,199 @@
+{
+    "data":[
+        {
+            "booktitle": "ఆదికాండము",
+            "subtitle": "Genesis",
+            "chapters": "అధ్యాయాలు :50"
+        },
+        {
+            "booktitle": "నిర్గమకాండము",
+            "subtitle": "Exodus",
+            "chapters": "అధ్యాయాలు :40"
+        },
+        {
+            "booktitle": "లేవీయకాండము",
+            "subtitle": "Leviticus",
+            "chapters": "అధ్యాయాలు :27"
+        },
+        {
+            "booktitle": "సంఖ్యాకాండము",
+            "subtitle": "Numbers",
+            "chapters": "అధ్యాయాలు :36"
+        },
+        {
+            "booktitle": "ద్వితీయోపదేశకాండమ",
+            "subtitle": "Deuteronomy",
+            "chapters": "అధ్యాయాలు :34"
+        },
+        {
+            "booktitle": "యెహొషువ",
+            "subtitle": "Joshua",
+            "chapters": "అధ్యాయాలు :24"
+        },
+        {
+            "booktitle": "న్యాయాధిపతులు",
+            "subtitle": "Judges",
+            "chapters": "అధ్యాయాలు :21"
+        },
+        {
+            "booktitle": "రూతు",
+            "subtitle": "Ruth",
+            "chapters": "అధ్యాయాలు :4"
+        },
+        {
+            "booktitle": "సమూయేలు మొదటి గ్రంథము",
+            "subtitle": "1 Samuel",
+            "chapters": "అధ్యాయాలు :31"
+        },
+        {
+            "booktitle": "సమూయేలు రెండవ గ్రంథము",
+            "subtitle": "2 Samuel",
+            "chapters": "అధ్యాయాలు :24"
+        },
+        {
+            "booktitle": "రాజులు మొదటి గ్రంథము",
+            "subtitle": "1 Kings",
+            "chapters": "అధ్యాయాలు :22"
+        },
+        {
+            "booktitle": "రాజులు రెండవ గ్రంథము",
+            "subtitle": "2 Kings",
+            "chapters": "అధ్యాయాలు :25"
+        },
+        {
+            "booktitle": "దినవృత్తాంతములు మొదటి గ్రంథము",
+            "subtitle": "1 Chronicles",
+            "chapters": "అధ్యాయాలు :29"
+        },
+        {
+            "booktitle": "దినవృత్తాంతములు రెండవ గ్రంథము",
+            "subtitle": "2 Chronicles",
+            "chapters": "అధ్యాయాలు :36"
+        },
+        {
+            "booktitle": "ఎజ్రా",
+            "subtitle": "Ezra",
+            "chapters": "అధ్యాయాలు :10"
+        },
+        {
+            "booktitle": "నెహెమ్యా",
+            "subtitle": "Nehemiah",
+            "chapters": "అధ్యాయాలు :13"
+        },
+        {
+            "booktitle": "ఎస్తేరు",
+            "subtitle": "Esther",
+            "chapters": "అధ్యాయాలు :10"
+        },
+        {
+            "booktitle": "యోబు గ్రంథము",
+            "subtitle": "Job",
+            "chapters": "అధ్యాయాలు :42"
+        },
+        {
+            "booktitle": "కీర్తనల గ్రంథము",
+            "subtitle": "Psalms",
+            "chapters": "అధ్యాయాలు :150"
+        },
+        {
+            "booktitle": "సామెతలు",
+            "subtitle": "Proverbs",
+            "chapters": "అధ్యాయాలు :31"
+        },
+        {
+            "booktitle": "ప్రసంగి",
+            "subtitle": "Ecclesiastes",
+            "chapters": "అధ్యాయాలు :12"
+        },
+        {
+            "booktitle": "పరమగీతము",
+            "subtitle": "Song of Solomon",
+            "chapters": "అధ్యాయాలు :8"
+        },
+        {
+            "booktitle": "యెషయా గ్రంథము",
+            "subtitle": "Isaiah",
+            "chapters": "అధ్యాయాలు :66"
+        },
+        {
+            "booktitle": "యిర్మీయా",
+            "subtitle": "Jeremiah",
+            "chapters": "అధ్యాయాలు :52"
+        },
+        {
+            "booktitle": "విలాపవాక్యములు",
+            "subtitle": "Lamentations",
+            "chapters": "అధ్యాయాలు :5"
+        },
+        {
+            "booktitle": "యెహెజ్కేలు",
+            "subtitle": "Ezekiel",
+            "chapters": "అధ్యాయాలు :48"
+        },
+        {
+            "booktitle": "దానియేలు",
+            "subtitle": "Daniel",
+            "chapters": "అధ్యాయాలు :12"
+        },
+        {
+            "booktitle": "హొషేయ",
+            "subtitle": "Hosea",
+            "chapters": "అధ్యాయాలు :14"
+        },
+        {
+            "booktitle": "యోవేలు",
+            "subtitle": "Joel",
+            "chapters": "అధ్యాయాలు :3"
+        },
+        {
+            "booktitle": "ఆమోసు",
+            "subtitle": "Amos",
+            "chapters": "అధ్యాయాలు :9"
+        },
+        {
+            "booktitle": "ఓబద్యా",
+            "subtitle": "Obadiah",
+            "chapters": "అధ్యాయాలు :1"
+        },
+        {
+            "booktitle": "యోనా",
+            "subtitle": "Jonah",
+            "chapters": "అధ్యాయాలు :4"
+        },
+        {
+            "booktitle": "మీకా",
+            "subtitle": "Micah",
+            "chapters": "అధ్యాయాలు :7"
+        },
+        {
+            "booktitle": "నహూము",
+            "subtitle": "Nahum",
+            "chapters": "అధ్యాయాలు :3"
+        },
+        {
+            "booktitle": "హబక్కూకు",
+            "subtitle": "Habakkuk",
+            "chapters": "అధ్యాయాలు :3"
+        },
+        {
+            "booktitle": "జెఫన్యా",
+            "subtitle": "Zephaniah",
+            "chapters": "అధ్యాయాలు :3"
+        },
+        {
+            "booktitle": "హగ్గయి",
+            "subtitle": "Haggai",
+            "chapters": "అధ్యాయాలు :2"
+        },
+        {
+            "booktitle": "జెకర్యా",
+            "subtitle": "Zechariah",
+            "chapters": "అధ్యాయాలు :14"
+        },
+        {
+            "booktitle": "మలాకీ",
+            "subtitle": "Malachi",
+            "chapters": "అధ్యాయాలు :4"
+        }
+    ]
+}
