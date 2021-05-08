@@ -1,4 +1,5 @@
-[
+{
+    "data":[
         {
             "booktitle": "ఆదికాండము",
             "subtitle": "Genesis",
@@ -194,4 +195,5 @@
             "subtitle": "Malachi",
             "chapters": "అధ్యాయాలు :4"
         }
-  ]
+    ]
+}
